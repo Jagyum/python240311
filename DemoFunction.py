@@ -28,3 +28,12 @@ def func2(a):
 
 #호출
 print(func2(1))
+
+
+#기본값 셋팅
+def times(a=10, b=20):
+    return a*b
+
+print(times())
+print(times(10))
+print(times(5,6))
