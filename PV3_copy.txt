@@ -1,0 +1,4 @@
+hRst = 2 error 500:4s
+
+RegOpenKey(Software\AHNLAB\APC2\Policy Agent) : 0 error 120:7
+
