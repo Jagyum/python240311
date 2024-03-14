@@ -52,3 +52,4 @@ for page in range(1, 101):
 path = 'c:\\work\\'
 file_path = f'{path}{search_keyword}_blog_data.xlsx'
 wb.save(file_path)
+wb.close()
